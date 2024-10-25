@@ -26,7 +26,7 @@ module.exports = {
 			session2: "𝙽𝙾𝙾𝙽",
 			session3: "𝙰𝙵𝚃𝙴𝚁𝙽𝙾𝙾𝙽",
 			session4: "𝙴𝚅𝙴𝙽𝙸𝙽𝙶",
-			welcomeMessage: "𝙷𝙴𝚈 𝙶𝚄𝚈 𝙱𝙾𝚃 𝙲𝙾𝙽𝙽𝙴𝙲𝚃 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿\n𝙱𝙾𝚃 𝙿𝚁𝙴𝙵𝙸𝚇: %1\n 𝙰𝙽𝙳 𝚃𝙽𝚇 𝙵𝙾𝚁 𝙰𝙳𝙳𝙴𝙳 {userName} 𝚃𝚈𝙿𝙴☞︎︎︎ %1𝙷𝙴𝙻𝙿☞︎︎\n𝙱𝙾𝚃 𝙲𝚁𝙴𝙳𝙸𝚃 𝙱𝚈 𝙽𝙸𝚂𝙰𝙽 𖤍🂱",
+			welcomeMessage: "𝙷𝙴𝚈 𝙶𝚄𝚈 𝙱𝙾𝚃 𝙲𝙾𝙽𝙽𝙴𝙲𝚃 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿\n𝙱𝙾𝚃 𝙿𝚁𝙴𝙵𝙸𝚇: %1\n 𝙰𝙽𝙳 𝚃𝙽𝚇 𝙵𝙾𝚁 𝙰𝙳𝙳𝙴𝙳 {userName} 𝚃𝚈𝙿𝙴☞︎︎︎ %1𝙷𝙴𝙻𝙿☞︎︎\n𝙱𝙾𝚃 𝙲𝚁𝙴𝙳𝙸𝚃 𝙱𝚈 𝙰𝙵𝚁𝙸𝙳𝙸 𖤍🂱",
 			multiple1: "𝚈𝙾𝚄",
 			multiple2: "𝚈𝙾𝚄 𝙶𝚄𝚈𝚂",
 			defaultWelcomeMessage: `𝙰𝚂𝚂𝙰𝙻𝙰𝙼𝚄𝚆𝙰𝙻𝙰𝙸𝙺𝚄𝙼 {userName}  𝚆𝙴𝙻𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙰𝙵𝚁𝙸𝙳𝙸 \n𝚆𝙴𝙻𝙻𝙲𝙾𝙼𝙴  {multiple} 𝚃𝙾 𝚃𝙷𝙴 𝙲𝙷𝙰𝚃 𝙱𝙾𝚇: {boxName}\n𝙷𝙰𝚅𝙴 𝙰 𝙽𝙸𝙲𝙴  {session}🐼♲︎︎︎`
