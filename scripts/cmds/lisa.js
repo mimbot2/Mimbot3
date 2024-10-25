@@ -31,8 +31,8 @@ const shortLang = "bn";
 const lang = languagesMap[shortLang] || "bangla";
 
 module.exports.config = {
-  name: "lisa",
-  aliases: ["Lisa"],
+  name: "mim",
+  aliases: ["Mim"],
   version: "1.0.0",
   role: 0,
   author: "dipto",
@@ -74,7 +74,7 @@ module.exports.onStart = async function ({ api, args, event }) {
     const dipto = args.join(" ").toLowerCase();
     if (!args[0]) {
       api.sendMessage(
-        "𝙏𝙮𝙥𝙚 𝙇𝙞𝙨𝙖 𝙗𝙗𝙮",
+        "𝙏𝙮𝙥𝙚 𝙈𝙞𝙢 𝙗𝙗𝙮",
         event.threadID,
         event.messageID,
       );
