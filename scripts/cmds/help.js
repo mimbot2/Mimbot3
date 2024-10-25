@@ -9,7 +9,7 @@ module.exports = {
   config: {
     name: "help",
     version: "1.17",
-    author: "NISAN",
+    author: "ᴀғʀɪᴅɪ",
     countDown: 5,
     role: 0,
     shortDescription: {
@@ -63,7 +63,7 @@ module.exports = {
       msg += ``;
       msg += `\n╭─────❃\n│🌟 | [𝙶𝙾𝙰𝚃𝙱𝙾𝚃🐐│https://www.facebook.com/profile.php?id=/disting.disting.need05\n╰────────────✦`; 
 
-      const attachment = await axios.get("https://i.imgur.com/BG239h5.gif", { responseType: "stream" });
+      const attachment = await axios.get("https://i.imgur.com/BfXcvZc.gif", { responseType: "stream" });
 
       await message.reply({
         body: msg,
