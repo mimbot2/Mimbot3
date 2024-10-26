@@ -20,12 +20,10 @@ module.exports = {
 		const messenger = "https://m.me/bd.afridi.10";
 		const authorFB = "https://www.facebook.com/bd.afridi.10";
 		const authorNumber = "_01732228674";
-		const Status = "_𝘚𝘪𝘯𝘨𝘭𝘦 𝘗𝘳𝘰 𝘔𝘢𝘹 ⛱";
+		const Status = "_𝘚𝘪𝘯𝘨𝘭𝘦⛱";
 		const urls = [
 "https://i.imgur.com/BfXcvZc.gif",
-",
-"",
-""
+
 ];
 		const link = urls[Math.floor(Math.random() * urls.length)];
 		const now = moment().tz('Asia/Jakarta');
